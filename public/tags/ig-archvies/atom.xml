@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title> - IG Archvies</title>
     <subtitle>A minimalist Zola theme that prioritizes clean CSS and avoids heavy JavaScript. Enjoy a seamless user experience with lightning-fast load times. Let your content take center stage in a clutter-free, elegant design that enhances readability. Responsive and efficient, anemone brings focus to your ideas.</subtitle>
-    <link rel="self" type="application/atom+xml" href="https://peterparkercodemarkii.github.io/tags/ig-archvies/atom.xml"/>
-    <link rel="alternate" type="text/html" href="https://peterparkercodemarkii.github.io/"/>
+    <link rel="self" type="application/atom+xml" href="https://peterparkercodeii.github.io/tags/ig-archvies/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://peterparkercodeii.github.io/"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2021-08-21T00:00:00+00:00</updated>
-    <id>https://peterparkercodemarkii.github.io/tags/ig-archvies/atom.xml</id>
+    <id>https://peterparkercodeii.github.io/tags/ig-archvies/atom.xml</id>
     <entry xml:lang="en">
         <title>The Illusion of Money</title>
         <published>2021-08-21T00:00:00+00:00</published>
@@ -20,10 +20,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://peterparkercodemarkii.github.io/blog/2021-21-08-illusion-of-money/"/>
-        <id>https://peterparkercodemarkii.github.io/blog/2021-21-08-illusion-of-money/</id>
+        <link rel="alternate" type="text/html" href="https://peterparkercodeii.github.io/blog/2021-21-08-illusion-of-money/"/>
+        <id>https://peterparkercodeii.github.io/blog/2021-21-08-illusion-of-money/</id>
         
-        <content type="html" xml:base="https://peterparkercodemarkii.github.io/blog/2021-21-08-illusion-of-money/">&lt;div &gt;
+        <content type="html" xml:base="https://peterparkercodeii.github.io/blog/2021-21-08-illusion-of-money/">&lt;div &gt;
   &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;64.media.tumblr.com&amp;#x2F;0bf13392b5490986fc25c8912c2f39b6&amp;#x2F;tumblr_n04yhjlXRr1tqg1b3o1_500.jpg&quot; alt=&quot;They Live&quot;&gt;
   
 &lt;&#x2F;div&gt;
