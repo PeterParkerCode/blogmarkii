@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 Allow: /
-Sitemap: https://peterparkercode.github.io/markii/sitemap.xml
+Sitemap: https://peterparkercode.github.io/sitemap.xml

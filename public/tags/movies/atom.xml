@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title> - movies</title>
     <subtitle>A minimalist Zola theme that prioritizes clean CSS and avoids heavy JavaScript. Enjoy a seamless user experience with lightning-fast load times. Let your content take center stage in a clutter-free, elegant design that enhances readability. Responsive and efficient, anemone brings focus to your ideas.</subtitle>
-    <link rel="self" type="application/atom+xml" href="https://peterparkercode.github.io/markii/tags/movies/atom.xml"/>
-    <link rel="alternate" type="text/html" href="https://peterparkercode.github.io/markii/"/>
+    <link rel="self" type="application/atom+xml" href="https://peterparkercode.github.io/tags/movies/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://peterparkercode.github.io/"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2022-08-04T00:00:00+00:00</updated>
-    <id>https://peterparkercode.github.io/markii/tags/movies/atom.xml</id>
+    <id>https://peterparkercode.github.io/tags/movies/atom.xml</id>
     <entry xml:lang="en">
         <title>Flipping the Script (Cobra Kai Philosophy)</title>
         <published>2022-08-04T00:00:00+00:00</published>
@@ -20,10 +20,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://peterparkercode.github.io/markii/blog/cobra-kai/"/>
-        <id>https://peterparkercode.github.io/markii/blog/cobra-kai/</id>
+        <link rel="alternate" type="text/html" href="https://peterparkercode.github.io/blog/cobra-kai/"/>
+        <id>https://peterparkercode.github.io/blog/cobra-kai/</id>
         
-        <content type="html" xml:base="https://peterparkercode.github.io/markii/blog/cobra-kai/">&lt;iframe width=&quot;854&quot; height=&quot;480&quot;
+        <content type="html" xml:base="https://peterparkercode.github.io/blog/cobra-kai/">&lt;iframe width=&quot;854&quot; height=&quot;480&quot;
 src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=yZFBtHG3okI&quot;&gt;
 &lt;&#x2F;iframe&gt;
 &lt;h5&gt;Cobra Kai Season 1(2018)&lt;&#x2F;h5&gt;
@@ -91,10 +91,10 @@ Welp, that’s my take on it, and while your at it, go learn a martial arts if y
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://peterparkercode.github.io/markii/blog/come-together/"/>
-        <id>https://peterparkercode.github.io/markii/blog/come-together/</id>
+        <link rel="alternate" type="text/html" href="https://peterparkercode.github.io/blog/come-together/"/>
+        <id>https://peterparkercode.github.io/blog/come-together/</id>
         
-        <content type="html" xml:base="https://peterparkercode.github.io/markii/blog/come-together/">&lt;div &gt;
+        <content type="html" xml:base="https://peterparkercode.github.io/blog/come-together/">&lt;div &gt;
   &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;external-content.duckduckgo.com&amp;#x2F;iu&amp;#x2F;?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FOBwuHLkqgKM%2Fmaxresdefault.jpg&amp;amp;f=1&amp;amp;nofb=1&amp;amp;ipt=b34b3cb2d46e67c01fc0007f26baf1e2a7d4fe8620b67e523575b40f2f71b8cd&amp;amp;ipo=images&quot; alt=&quot;civil war&quot;&gt;
   
 &lt;&#x2F;div&gt;
