@@ -1,9 +1,10 @@
 +++
 +++
-
+<title>PhantomBroken</title>
+<link rel="icon" type="image/png" href="customfavicon.ico">
 <div>
-<img alt="me" src="MatrixAang1.png" style="width:50px;height50px;">
-<div class ="caption">ファントムブロークン </div>
+<img alt="me" src="MatrixAang1.png" style="width:50px;height50px;> 
+<div class ="caption">ファントムブロークン</div>
 </div>
 
 - [CONSCIOUS LYRICS, GOVERNMENT ADVISORY](./clga)
@@ -16,8 +17,8 @@ Explore insightful blog posts on a variety of topics:
 
 - [Overview Post](./blog)
 - [Flipping The Script a Cobra Kai Philosophy](./blog/cobra-kai)
-- [How Hip-Hop Became my Threapy](./blog/Hip-Hop-And-Threapy)
-- [The Illusion of Money](./blog/illusion-of-money)
+- [How Hip-Hop Became my Threapy](./blog/hip-hop-and-threapy)
+- [The Illusion of Money](./blog/2021-21-08-illusion-of-money)
 
 ## Tags
 

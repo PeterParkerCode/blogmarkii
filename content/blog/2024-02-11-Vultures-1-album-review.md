@@ -1,0 +1,44 @@
++++
+title = "Vultures 1 Album Review"
+date = "2024-02-11"
+
+[taxonomies]
+tags = ["Music", "Rap","Hip-Hop"]
++++
+{{img(id="https://cdn.discordapp.com/attachments/1112522475788566629/1206358795601842206/Screenshot_20240211-165847.jpg?ex=65dbb82d&is=65c9432d&hm=9f8ff762ea2dfb827d4f3fc57be1a27c3f087f06959ca99200af13705d70d1e7&", alt="Vultures 1", width="20", height="20")}}
+
+After many delays Kanye West next collabration album with Ty Dolla $ign is here with the first volume of the Vultures trilogy. My opinions on the album is that there are some songs on here that are a miss for me and should've been cut out, replaced, or needed more fixing on, there is a lot of hits for me that makes the album enjoyable still. This project feels like a combination of Kanye's past albums and eras that is sprinkled in the songs that I enjoyed the most, which I was totally surprised that he would go back to those sounds, ranging from the 2000s era with the College trilogy and 808s & Heartbreaks, to the 2010s era with MBDTF, Yeezus, TLOP, and much more. 
+
+<h1> First Act of VULTURES 1</h1>
+Right out with the intro, with STARS, is a really well done introduction to the album with really good drums which I assume JPEGMAFIA worked on for the intro as its really dynamic. Throughout the 1st act of the album, there are some songs that I didn't really enjoy like KEYS TO MY LIFE AND HOODRAT but the rest of the 1st act like PAID, TALKING, BACK TO ME, DO IT. The disco/dance and EDM aspect for the album like PAID AND DO IT is really executed well. I esspecially liked the violins and strings sounds in DO IT. 
+
+<h1>Second Act of VULTURES 1</h1>
+Now the second act is my favorite part of the album starting with PAPERWORK, with its experimental aspects and distorted bass and drums, which has that YEEZUS sound really shine in this album with experimental voxstoo. And we transition from that experimental sound to straight 2000s nostalgic Kanye era. Now BURN takes the cake for being my most favorite track out of this album, with Kanye bringing back that classic flow and the amazing chorus that sounds like it's a predecessor from his other song that last time we got this type of style of a song from him, White Dress. BURN makes me feel like I'm in sometype of cinematic Martial Arts/Bruce Lee/Quentin Tarantino movie type of vibe. This track is overall fun, soulful and simplistic but sounds amazing. I feel like if JPEGMAFIA helped produced this track, combinding soulful with a little bit more of experimental sounds and seeing how well that goes together. Would be something different I'll like to see next time if Kanye or anyone (or even me) combines the two like that. The only con for this song is that its too short, ending at 1:51 minutes. Could've been more extended I feel. Though I do hope Kanye brings more of this sounds and make an album surrounded by the idea of BURN and White Dress. Then the next track FUK SUMN, goes back into that experimental hip-hop, with again, JPEGMAFIA helping producing this track with the chipmuck high pitch Kanye vocal sample and the complex drum patterns. After FUCK SUMN we go into the single with VULTURES, which when listening to the first version of it back in 2023, I didn't really liked it at all, I thought it was too basic with the beat and the production, lyrics were okay though, the song has grown on me, but for sure not the best on this album when its competing other better songs mentioning before. With CARNIVAL, I love the choir sample having more of a Middle Eastern sounding throughout this song, with again more experimental trap. A little too dark with my taste as I don't really like Playboi Carti's music at all because of that. But still a hype type of song neither the less. 
+
+<h1>Third act of the VULTURES 1</h1>
+With GOOD (DON'T DIE) is an absolute skip for me. Should've been cut and sounds like it needs more fixed on. It sures has 808s & Heartbreaks sounding to it but to me wasn't executed very well along with the singing and vocals sounded like it needs improvement. The last two songs in the third act is a lot better with BEG FORGIVENESS and KING. I also liked the sample chopping in the 3:39 mark of the song with BEG FORGIVENESS and has better singing. And again with KING, the drums in the production is amazing, and the line with "Crazy, bipolar, antisemite" makes me laugh with the way Kanye says it. Overall, I enjoyed this album despite it being flawed in many aspects, it somewhat feels like an album that is jotting down many ideas, concepts and genres with really strong ideas and ones that don't work. Maybe that will be fixed in VULTURES 2 & 3. 
+<h1>Favorite Tracks</h1>
+<ol>
+<li>BURN</li> 
+<li>FUCK SUMN</li>
+<li>TALKING</li>
+<li>PAPERWORK</li>
+<li>DO IT</li>
+<li>STARS</li>
+<li>PAID</li>
+<li>CARNIVAL</li>
+<li>BACK TO ME</li>
+<li>BEG FORGIVENESS</li>
+<li>KING</li>
+</ol>
+
+<h1>Least Favorite Tracks</h1>
+<ol>
+<li>GOOD (GOOD DON'T DIE)</li>
+<li>HOODRAT</li>
+<li>KEYS TO MY LIFE</li>
+<li>VULTURES</li>
+</ol>
+
+<h1>Final Verdict</li>
+<h2>7/10</h2>

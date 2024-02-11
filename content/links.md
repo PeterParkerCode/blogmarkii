@@ -5,7 +5,7 @@ title = "Links"
 
 <h2>Websites that would lead you in rabbit holes</h2>
 <ul>
-<li><a href="https://www.GematriaEffectNews.com">Gematria Effect News</a></li>
+<li><a href="https://www.gematriaeffect.news">Gematria Effect News</a></li>
 <li><a href="https://www.Gematrinator.com">Gematrinator</a></li>
 <li><a href="https://www.cracktheircode.org">AMY CRACK THEIR CODE</a></li>
 <li><a href="https://www.crazydaysandnights.net"> Crazy Days and Nights</a></li>

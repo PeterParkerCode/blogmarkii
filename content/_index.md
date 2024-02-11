@@ -4,7 +4,7 @@
 <link rel="icon" type="image/png" href="customfavicon.ico">
 <div>
 <img alt="me" src="MatrixAang1.png" style="width:50px;height50px;">
-<div class ="caption">ファントムブロークン </div>
+<div class ="caption">ファントムブロークン</div>
 </div>
 
 - [CONSCIOUS LYRICS, GOVERNMENT ADVISORY](./clga)
