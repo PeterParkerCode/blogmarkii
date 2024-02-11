@@ -2,7 +2,7 @@
 title = "We Always Have a Choice"
 date = "2022-08-03"
 [taxonomies]
-tags = ["Medium Archives", "Philosphy", "Spider-Man", "Comic Books", "Marvel"]
+tags = ["Medium Archives", "Philosophy", "Spider-Man", "Comic Books", "Marvel"]
 +++
 
 {{img(id="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*e74uJ-7Th6ow9m3ZXu9pTA.jpeg", alt="Comicbook 1")}}
